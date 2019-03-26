@@ -41,6 +41,7 @@
     <Folder Include="CrawfisWeb\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="crawfisweb - Web Deploy.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="CrawfisWeb\static\content\bootstrap.css" />
     <Content Include="CrawfisWeb\static\content\bootstrap.min.css" />
@@ -68,6 +69,7 @@
     <Content Include="CrawfisWeb\templates\contact.html" />
     <Content Include="CrawfisWeb\templates\index.html" />
     <Content Include="CrawfisWeb\templates\layout.html" />
+    <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
